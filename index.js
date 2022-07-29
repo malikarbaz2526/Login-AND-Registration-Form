@@ -103,9 +103,12 @@ function show_hide2(){
         "Email" : document.getElementById("email").value,
         "Password" : document.getElementById("password").value,
      }
+     
+  
 
  console.log(signIn_data)
    }
+ 
 
    function object1(){
    var names=document.getElementById("text")
